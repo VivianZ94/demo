@@ -33,9 +33,9 @@
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.fm.fm</string>  
+                <string>com.fmm.fmm</string>  
                 <key>bundle-version</key>  
-                <string>1.0</string>  
+                <string>1</string>  
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
